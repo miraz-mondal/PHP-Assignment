@@ -3,7 +3,6 @@
 $a=10;
 $b=20;
 
-// echo the two numbers are
 
 /* Arithmetic operations */
 /*Addition*/

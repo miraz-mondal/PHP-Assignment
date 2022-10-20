@@ -5,6 +5,6 @@ $y = 6;
 $thirdvxr = $x;  
 $x = $y;  
 $y = $thirdvxr;  
-echo "after swapping: \n";  
+echo "After swapping: \n";  
 echo "Number x =".$x." and y=".$y;
 ?>  

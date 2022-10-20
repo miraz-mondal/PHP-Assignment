@@ -9,7 +9,6 @@ $cm = 1000;
 $meter = $cm / 100.0;
 $kilometer = $cm / 100000.0;
 
-// echo
 
 echo "Length in meter = " ,
 		$meter ,"m" , "\n";
